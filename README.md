@@ -6,6 +6,6 @@ No meu Github será possível encontrar alguns projetos pessoais de estudo em Cy
 
 Contatos por e-mail: murillopmiranda@gmail.com
 
-- 🔭 Estou trabalhando atualmente no UOL
+- 🔭 Estou atualmente morando em Portugal e trabalhando atualmente na Jobbex Group
 - 🌱 Estou atualmente evoluindo meus conhecimentos em Postman e Cypress
 - 😄 Adoro uma boa cerveja, estar com minha família e jogar Games.
